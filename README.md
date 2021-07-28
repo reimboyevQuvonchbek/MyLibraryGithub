@@ -12,6 +12,6 @@ allprojects {
   >Step 2. Add the dependency
   ```gradle
   dependencies {
-	        implementation 'com.github.reimboyevQuvonchbek:MyLibraryGithub:Tag'
+	       implementation 'com.github.reimboyevQuvonchbek:MyLibraryGithub:1.0.0'
 	}
   ```
